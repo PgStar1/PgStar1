@@ -36,7 +36,7 @@
 
 I'm a Biomedical Engineer with a strong software-engineering tilt — currently focused on shipping practical, real-world tools for the **Botswana** market while continuing to work across **medical imaging**, **machine learning**, and **full-stack web development**.
 
-Day to day I work at **Orange Botswana** on a CX and quality-of-service initiative, and outside of that I'm building **TselaGoo** alongside a small team. I care about software that's actually used — clean architecture, fast feedback loops, and shipping over polishing.
+Day to day I work at **Orange Botswana**, and outside of that I'm building **TselaGoo**. I care about software that's actually used — clean architecture, fast feedback loops, and shipping over polishing.
 
 - 🔭 Currently building **TselaGoo** (Gaborone combi route finder)
 - 🌱 Currently learning advanced ML deployment patterns, scalable backend design, and real-time GPS tracking
@@ -110,7 +110,7 @@ Integrated Master of Engineering — **Biomedical Engineering**
 ## 💼 Current Work
 
 **Orange Botswana** &nbsp;·&nbsp; *Gaborone, Botswana*
-Working within IT & Digital Transformation on a **CX and Quality-of-Service** initiative — focused on network/services performance and customer experience. Also engaged with the **Orange Digital Center (ODC)** in Gaborone, exploring collaboration on a Cloud Project.
+Working within IT & Digital Transformation.
 
 ---
 
