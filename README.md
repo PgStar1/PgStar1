@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm PEGO</h1>
+<h1 align="center">Hi 👋, I'm Yo</h1>
 
 <p align="center">
   <a href="https://github.com/PgStar1">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=F77F00&center=true&vCenter=true&width=600&lines=Biomedical+Engineer+%E2%9A%99%EF%B8%8F+turned+Software+Builder;Full-Stack+Dev+%7C+FastAPI+%2B+React+%2B+TypeScript;ML+%26+AI+Enthusiast+%F0%9F%A4%96;Building+for+Botswana+%F0%9F%87%A7%F0%9F%87%BC" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=F77F00&center=true&vCenter=true&width=760&lines=Biomedical+Engineer+%E2%9A%99%EF%B8%8F+turned+Software+Builder;Full-Stack+Dev+%7C+FastAPI+%2B+React+%2B+TypeScript;ML+%26+AI+Enthusiast+%F0%9F%A4%96;Building+for+Botswana+%F0%9F%87%A7%F0%9F%87%BC" alt="Typing SVG" />
   </a>
 </p>
 
@@ -146,17 +146,3 @@ Working within IT & Digital Transformation on a **CX and Quality-of-Service** in
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=PgStar1&label=Profile%20views&color=f77f00&style=flat-square" alt="Profile views" />
 </p>
-<!--
-**PgStar1/PgStar1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
