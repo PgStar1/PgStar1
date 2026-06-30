@@ -14,7 +14,7 @@
 
 ## 🌟 Featured Projects
 
-- **🚌 [TselaGoo]((https://tsela-go.netlify.app/))** — A combi (minibus taxi) route-finder for Gaborone. Built with **FastAPI + Supabase** on the backend and **React 19 + TypeScript + Vite + Tailwind** on the frontend, with **Google Maps JS API** for rendering. Features include per-segment route geometry storage, OSRM-based polyline computation from GPX tracks, two-leg route visualisation with transfer pins, and haversine-based nearest-stop search.
+- **🚌 [TselaGoo](https://tsela-go.netlify.app/)** — A combi (minibus taxi) route-finder for Gaborone. Built with **FastAPI + Supabase** on the backend and **React 19 + TypeScript + Vite + Tailwind** on the frontend, with **Google Maps JS API** for rendering. Features include per-segment route geometry storage, OSRM-based polyline computation from GPX tracks, two-leg route visualisation with transfer pins, and haversine-based nearest-stop search.
 
 - **📚 [ExamAI](https://github.com/PgStar1)** — An AI-powered exam practice platform for **BGCSE** and **JCE** students in Botswana. Built with **FastAPI**, **RAG** (sentence-transformers + OpenAI), and a custom PDF parser to ingest past papers. Generates contextually grounded practice questions and explanations from real exam content.
 
