@@ -41,7 +41,7 @@ Day to day I work at **Orange Botswana**, and outside of that I'm building **Tse
 - 🔭 Currently building **TselaGoo** (Gaborone combi route finder)
 - 🌱 Currently learning advanced ML deployment patterns, scalable backend design, and real-time GPS tracking
 - 💬 Ask me about **FastAPI**, **Supabase**, **React**, **medical imaging**, or **building for emerging markets**
-- 📫 Reach me through GitHub
+- 📫 Reach me through [GitHub](https://github.com/PgStar1) / [LinkedIn](https://www.linkedin.com/in/pego-letebele)
 
 ---
 
